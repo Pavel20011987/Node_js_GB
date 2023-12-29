@@ -1,14 +1,13 @@
 {
-  "name": "work_3",
+  "name": "random-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library for generating random data",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
+  "keywords": ["random", "utils", "data"],
+  "repository": "https://github.com/pavel20011987/random-utils",
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.3"
   }
 }
